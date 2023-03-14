@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 Kasun here!</h1>
+<h1 align="center">Hey!! Great to see you here! </h1>
 <h3 align="center">Enthusiastic about DevOps and cloud architectures, security, and server configurations.</h3>
 
 # 💫 About Me:
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvkasun&label=Profile%20views&color=0e75b6&style=flat" alt="nvkasun" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvkasun" alt="nvkasun" /></a> </p>
 <p align="left"> <a href="https://twitter.com/nvasun" target="blank"><img src="https://img.shields.io/twitter/follow/nvasun?logo=twitter&style=for-the-badge" alt="nvasun" /></a> </p>
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f67e4f61f52d5d6f13a772e29ae169cd58aa2d73c2cc7b6c779b942a78aa26f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e676966"><img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/2f67e4f61f52d5d6f13a772e29ae169cd58aa2d73c2cc7b6c779b942a78aa26f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e676966" data-animated-image="" data-canonical-src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" style="max-width: 100%;"></a></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kasun-vithanage) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nvkasun) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kasun-Madushanka-5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13231118) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nvasun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kasunmadusanka7293) 
