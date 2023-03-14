@@ -9,8 +9,6 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/2jvkd1bR/kasun.gif" data-animated-image="" data-canonical-src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" style="max-width: 100%;"></a></p>
 
-<p align="left"> <a href="https://twitter.com/nvasun" target="blank"><img src="https://img.shields.io/twitter/follow/nvasun?logo=twitter&style=for-the-badge" alt="nvasun" /></a> </p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kasun-vithanage) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nvkasun) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kasun-Madushanka-5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13231118) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nvasun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kasunmadusanka7293) 
