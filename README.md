@@ -1,4 +1,4 @@
-<h1 align="center">Hey!! Great to see you here! </h1>
+<h1 align="center">Hey!! <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"><img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" data-animated-image="" style="max-width: 100%;"> Great to see you here! </h1>
 <h3 align="center">Enthusiastic about DevOps and cloud architectures, security, and server configurations.</h3>
 
 # 💫 About Me:
