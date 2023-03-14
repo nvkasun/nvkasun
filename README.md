@@ -1,5 +1,5 @@
 <h1 align="center">Hey !! <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" data-animated-image="" style="max-width: 100%;"></a> Im Kasun! Great to see you here! </h1>
-<h3 align="center">Enthusiastic about DevOps and cloud architectures, security, and server configurations.</h3>
+<h3 align="center">Passionate About DevOps, cloud security and server configurations.</h3>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/2jvkd1bR/kasun.gif" data-animated-image="" data-canonical-src="#" style="max-width: 100%;"></a></p>
 
