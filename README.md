@@ -2,6 +2,7 @@
 <h3 align="center">Enthusiastic about DevOps and cloud architectures, security, and server configurations.</h3>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/2jvkd1bR/kasun.gif" data-animated-image="" data-canonical-src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" style="max-width: 100%;"></a></p>
+
 # 💫 About Me:
 - 🌱 I’m currently learning Cloud Computing<br>- 👯 I’m looking to collaborate on any DevOps project😉<br>- 🤔 I'm looking for help with Cloud Security<br>- 💬 Ask me about DevOps<br>- 📫 Reach me on LinkedIn: kasun-vithanage<br>- 📧 Email me: Here<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a Cool Guy / COD Player🎮 / Coffee lover☕ and music 🎶
 
