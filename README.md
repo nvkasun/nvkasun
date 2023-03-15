@@ -36,6 +36,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/bYWbfWHh/programmer.gif" data-animated-image="" data-canonical-src="#" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/bYWbfWHh/programmer.gif" data-animated-image="" data-canonical-src="#" style="max-width: 100%;"></a>
+![](https://github-readme-stats.vercel.app/api?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<p dir="auto">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nvkasun&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
