@@ -34,7 +34,9 @@
 # 😉 Support:
 <p><a href="https://www.buymeacoffee.com/kasunvithanage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kasunvithanage" /></a><a href="https://ko-fi.com/kasunvithanage"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kasunvithanage" /></a></p><br><br>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kasun-vithanage" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/kasun-vithanage?trk=profile-badge">Kasun Vithanage ☁️</a></div>
+              
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<p dir="auto">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nvkasun&theme=react&hide_border=true)
