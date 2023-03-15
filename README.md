@@ -4,7 +4,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/2jvkd1bR/kasun.gif" data-animated-image="" data-canonical-src="#" style="max-width: 100%;"></a></p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning Cloud Computing<br>- 👯 I’m looking to collaborate on any DevOps project😉<br>- 🤔 I'm looking for help with Cloud Security<br>- 💬 Ask me about AWS, DevOps, Azure & Microservices<br>- 📫 Reach me on LinkedIn: <a href="https://www.linkedin.com/in/kasun-vithanage/">kasun-vithanage</a> <br>- 📧 Email me: Here<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a Cool Guy / COD Player🎮 / Coffee lover☕ and music 🎶
+- 🌱 I’m currently learning Cloud Computing<br>- 👯 I’m looking to collaborate on any DevOps project😉<br>- 🤔 I'm looking for help with Cloud Security<br>- 💬 Ask me about AWS, DevOps, Azure & Microservices<br>- 📫 Reach me on LinkedIn: <a href="https://www.linkedin.com/in/kasun-vithanage/">kasun-vithanage</a> <br>- 📧 Email me: <a href="mailto:nvkasun@gmail.com">Here</a><br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a Cool Guy / COD Player🎮 / Coffee lover☕ and music 🎶
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvkasun&label=Profile%20views&color=0e75b6&style=flat" alt="nvkasun" /> </p>
 
