@@ -1,6 +1,3 @@
-[![MasterHead](https://i.postimg.cc/44DKSts4/gitmain.png)](https://rishavchanda.io)
-
-
 <h1 align="center">Hey !! <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" data-animated-image="" style="max-width: 100%;"></a> Im Kasun! Great to see you here! </h1>
 <h3 align="center">Passionate About DevOps, Cloud Security and Server Configurations.</h3>
 
