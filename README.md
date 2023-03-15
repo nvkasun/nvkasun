@@ -36,7 +36,6 @@
 
 
 # 📊 GitHub Stats:
-[![programmer.gif](https://i.postimg.cc/qvX11yhW/programmer.gif)](https://postimg.cc/XrqKJZgg)
 ![](https://github-readme-stats.vercel.app/api?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<p dir="auto">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nvkasun&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nvkasun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
